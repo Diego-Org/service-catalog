@@ -189,6 +189,7 @@ Adicionar conforme a implementação:
 - Política de remoção de ofertas com agendamentos futuros.
 - Mecanismo para preservar as condições acordadas nas reservas.
 - Contratos de integração e implantação como serviço independente.
+- teste
 
 ## Referências
 
