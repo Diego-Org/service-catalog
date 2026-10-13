@@ -196,4 +196,6 @@ Adicionar conforme a implementação:
 - Documento de Requisitos de Software — Marketplace para Serviços de Beleza.
 - Especificação de Casos de Uso — Marketplace para Serviços de Beleza, versão 1.0.
 
+- teste 2
+
 > Este README descreve o escopo previsto. Os critérios de aceite não representam funcionalidades já implementadas ou testes já executados.
